@@ -48,7 +48,7 @@ void seven(){
   delay(1000);
 }
 void loop(){
-//two();
-//three();
+two();
+three();
 seven();
 }
